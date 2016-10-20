@@ -1,0 +1,20 @@
+9 Second video with 100 frames a second
+
+Without preprocess resizing
+
+         252205 function calls (251265 primitive calls) in 407.986 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     1998  342.208    0.171  342.208    0.171 {scipy.signal.sigtools._linear_filter}
+     2997   20.800    0.007   20.800    0.007 {cv2.filter2D}
+
+With preprocess resizing
+
+         252205 function calls (251265 primitive calls) in 8.495 seconds
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     1998    4.239    0.002    4.239    0.002 {scipy.signal.sigtools._linear_filter}
+     1000    1.078    0.001    2.289    0.002 vidproc.py:31(get_frame)
+     

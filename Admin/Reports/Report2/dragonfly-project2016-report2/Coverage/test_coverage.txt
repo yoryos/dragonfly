@@ -1,0 +1,21 @@
+Name                                             Stmts   Miss Branch BrPart  Cover
+----------------------------------------------------------------------------------
+CSTMD1/Cstmd1.py                                    88      0     22      2    98%
+CSTMD1/Morphology/Compartment.py                    95      0     20      0   100%
+CSTMD1/Morphology/Coordinate.py                     30      0      0      0   100%
+CSTMD1/Morphology/MultiCompartmentalNeuron.py      117      5     42      5    94%
+CSTMD1/Morphology/NeuronCollection.py              163      3     60      1    98%
+CSTMD1/Morphology/NeuronGenerator.py                92      0     24      1    99%
+ESTMD/Estmd.py                                     111      0     30      0   100%
+Environment/Background.py                           12      0      0      0   100%
+Environment/Dragonfly.py                            13      0      0      0   100%
+Environment/Environment.py                          60      4     22      9    84%
+Environment/Target.py                               28      0      4      1    97%
+Environment/TargetAnimation/AnimationWindow.py      24      3      6      2    83%
+Motor/Motor.py                                      16      0      2      0   100%
+STDP/neuron.py                                     261     41     78     20    79%
+STDP/sample.py                                     130      0     34      1    99%
+STDP/simulation.py                                 155     50     50     13    61%
+STDP/stdp.py                                        70      4     28      2    92%
+----------------------------------------------------------------------------------
+TOTAL                                             1465    110    422     57    90%

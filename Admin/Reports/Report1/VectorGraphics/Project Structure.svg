@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="864" height="156" viewBox="0, 0, 864, 156">
+  <g id="Layer_1">
+    <g>
+      <g>
+        <path d="M0.5,72.5 L144.5,72.5 L144.5,156.5 L0.5,156.5 L0.5,72.5 z" fill="#D4EFFC"/>
+        <path d="M0.5,72.5 L144.5,72.5 L144.5,156.5 L0.5,156.5 L0.5,72.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 72, 114)">
+        <tspan x="-62.088" y="-18.704" font-family="HelveticaNeue" font-size="16" fill="#000000">Elementary Small </tspan>
+        <tspan x="-48.968" y="-0.704" font-family="HelveticaNeue" font-size="16" fill="#000000">Target Motion </tspan>
+        <tspan x="-64.448" y="17.296" font-family="HelveticaNeue" font-size="16" fill="#000000">Detector (ESTMD)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M372.5,0.5 L564.5,0.5 L564.5,48.5 L372.5,48.5 L372.5,0.5 z" fill="#D4EFFC"/>
+        <path d="M372.5,0.5 L564.5,0.5 L564.5,48.5 L372.5,48.5 L372.5,0.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 468, 24)">
+        <tspan x="-44.76" y="3" font-family="HelveticaNeue" font-size="16" fill="#000000">Environment</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M180.5,72.5 L324.5,72.5 L324.5,156.5 L180.5,156.5 L180.5,72.5 z" fill="#D4EFFC"/>
+        <path d="M180.5,72.5 L324.5,72.5 L324.5,156.5 L180.5,156.5 L180.5,72.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 252, 116.796)">
+        <tspan x="-61.04" y="-21.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Centrifugal Small </tspan>
+        <tspan x="-48.968" y="-3.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Target Motion </tspan>
+        <tspan x="-37.488" y="14.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Detector 1 </tspan>
+        <tspan x="-36.744" y="32.5" font-family="HelveticaNeue" font-size="16" fill="#000000">(CSTMD1)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M360.5,72.5 L504.5,72.5 L504.5,156.5 L360.5,156.5 L360.5,72.5 z" fill="#D4EFFC"/>
+        <path d="M360.5,72.5 L504.5,72.5 L504.5,156.5 L360.5,156.5 L360.5,72.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 432, 116.796)">
+        <tspan x="-46.384" y="-21.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Spike Timing </tspan>
+        <tspan x="-39.424" y="-3.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Dependent </tspan>
+        <tspan x="-59.104" y="14.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Plasticity (STDP)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M540.5,90.5 L684.5,90.5 L684.5,138.5 L540.5,138.5 L540.5,90.5 z" fill="#D4EFFC"/>
+        <path d="M540.5,90.5 L684.5,90.5 L684.5,138.5 L540.5,138.5 L540.5,90.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 612, 115.598)">
+        <tspan x="-52.16" y="-5.857" font-family="HelveticaNeue" font-size="16" fill="#000000">Reinforcement </tspan>
+        <tspan x="-47.408" y="12.143" font-family="HelveticaNeue" font-size="16" fill="#000000">Learning (RL)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M720.5,90.5 L864.5,90.5 L864.5,138.5 L720.5,138.5 L720.5,90.5 z" fill="#D4EFFC"/>
+        <path d="M720.5,90.5 L864.5,90.5 L864.5,138.5 L720.5,138.5 L720.5,90.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 792, 115.598)">
+        <tspan x="-58.52" y="-5.857" font-family="HelveticaNeue" font-size="16" fill="#000000">Motor Controller </tspan>
+        <tspan x="-16.888" y="12.143" font-family="HelveticaNeue" font-size="16" fill="#000000">(MC)</tspan>
+      </text>
+    </g>
+    <path d="M804.5,24.5 L804.5,90.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <g>
+      <path d="M576.3,24.5 L804.5,24.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M576.3,20.9 L566.7,24.5 L576.3,28.1 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M84.5,24.5 L84.5,60.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M80.9,60.7 L84.5,70.3 L88.1,60.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <path d="M83.5,24.5 L372.5,24.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <g>
+      <path d="M144.5,114.5 L168.7,114.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M168.7,118.1 L178.3,114.5 L168.7,110.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M324.5,114.5 L348.7,114.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M348.7,118.1 L358.3,114.5 L348.7,110.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M504.5,114.5 L528.7,114.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M528.7,118.1 L538.3,114.5 L528.7,110.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M684.5,114.5 L708.7,114.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M708.7,118.1 L718.3,114.5 L708.7,110.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+\subsection{ESTMD}
+The ESTMD has been developed to integrate into the planned continuous flow model with the creation of a step method. This will allow it to process a time step given a frame matrix input from the Environment module, detect movement in the frame matrix and pass that detected movement to the CSTMD1. As a result the ESTMD is ready to be integrated into the model framework alongside the Environment and CSTMD1. We also developed the option for the ESTMD to output its detected movement as videos to allow for quick manual comparison and verifcation alongside the source videos.
+
+However, whilst testing the ESTMD, we found that whilst fully functional its performance was below the desired speed to achieve near real time results. After investigation (see Appendix \ref{ESTMD_profiling}: \nameref{ESTMD_profiling}) we found this was due to the high resolution of the input frames. Downsizing the resolution of the frames prior to processing significantly reduced processing time, but at the cost of detection accuracy. We will experiment to find an acceptable compromise between speed and accuracy.
+

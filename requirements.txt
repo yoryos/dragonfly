@@ -1,0 +1,13 @@
+# general dependencies
+numpy
+scipy
+matplotlib
+progressbar
+oct2py
+pyqtgraph
+pyopengl
+pillow
+
+# pybo dependencies
+git+https://github.com/mwhoffman/ezplot.git#egg=ezplot
+git+https://github.com/mwhoffman/reggie.git#egg=reggie

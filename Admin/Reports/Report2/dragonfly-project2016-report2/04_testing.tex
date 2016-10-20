@@ -1,0 +1,18 @@
+\section{Testing}
+
+\subsection{Strategy}
+
+As our project has a clearly predefined framework with set inputs and outputs for each module, testing is relatively simple. Each module has its own test suite with a set of test data, which will also be created for the fully integrated framework. In addition our use of Object-Orientated design ensures we can and have tested lower-level code such as the Environment's \textit{Target} or the CSTMD1's \textit{Compartment} classes, allowing us increased confidence in the robustness of the system.
+
+To achieve the goal of near real time performance we will identify bottlenecks using profiling tools and where possible remove them through code optimisation. If robust and high coverage tests are frequently used, we can be more confident that future optimisations  will not introduce any problems with the component functionality.
+
+However whilst unit and coverage testing will ensure the code is functional, it does not ensure it accurately performs to our desired model. Now that the core components have been integrated, we have begun the process of developing model verification tests for this purpose. This is necessary as many aspects of the components rely upon various parameters, the values of which need to be determined and verified through experimentation, and their reasonable limits with stress testing.
+
+Once all components have been tested independently and as an integrated framework, and the model has been verified we can then perform rigorous system testing as well as start developing potential extensions.
+
+\subsection{Implementation}
+
+We chose to use the PyUnit framework, which is the standard for Python\cite{TESTING01}, as nearly all our code is in Python and it allows us to re-run the tests for modules we inherited from the previous group (\textit{neuron.py}, \textit{sample.py} and \textit{simulation.py} Appendix \ref{TestingAppendix}). The CUDA library we have written has been wrapped using Cython and hence we are also able to test this with PyUnit, hence allowing for a uniform testing methodology. We use the package \textit{Coverage.py} to measure the statement and branch coverage of the code and the package \textit{Mock} to ensure we can test parts of our code which generate graphical output. A generic test suite template has been constructed enabling a consistent testing setup for each module and for independent testing. A top level ``Dragonfly Test Suite'' can then easily import each module's respective test suites allowing for quick project wide testing.
+
+\subsection{Results}
+We have tested all modules apart from the Reinforcement Learning module (see Section \ref{RL}) to achieve a total coverage average of $90\%$. Note that the average is brought down by the coverage of last year's code that was used. We will attempt to increase this coverage in future testing. A full exposition is available in Appendix \ref{TestingAppendix}.

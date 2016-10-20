@@ -1,0 +1,3 @@
+Name       Stmts   Miss Branch BrPart  Cover
+--------------------------------------------
+Motor.py      16      0      2      0   100%

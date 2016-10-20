@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1212" height="540" viewBox="0, 0, 1212, 540">
+  <g id="Layer_1">
+    <path d="M477,424 L478,424 L478,424 L477,424 L477,424 z" fill="#000000"/>
+    <path d="M564.5,96.5 L564.5,120.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M107.5,120.5 L1009.5,120.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M696.5,241.5 L696.5,277.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M108.5,276.5 L300.5,276.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M179.5,252.5 L478,252.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M324.5,240.5 L324.5,252.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <g>
+      <g>
+        <path d="M108.5,348.5 L108.5,432.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M104.9,432.7 L108.5,442.3 L112.1,432.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 137.054, 396)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <path d="M300.5,408.5 L300.5,348.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M299.5,408.5 L1033.5,408.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+    <path d="M1068.5,227.5 L1068.5,299.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+  </g>
+  <g id="Layer_3">
+    <g>
+      <g>
+        <path d="M792.5,192.5 L912.7,192.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M912.7,196.1 L922.3,192.5 L912.7,188.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 856.809, 182.045)">
+        <tspan x="-18.284" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">Why?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M408.5,192.5 L588.7,192.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M588.7,196.1 L598.3,192.5 L588.7,188.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 503.707, 182.045)">
+        <tspan x="-18.284" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">Why?</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M864.5,275.5 L864.5,287.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <path d="M860.9,287.7 L864.5,297.3 L868.1,287.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+    </g>
+    <g>
+      <g>
+        <path d="M804.3,228.5 L1068.5,228.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M804.3,224.9 L794.7,228.5 L804.3,232.1 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 852.388, 240.52)">
+        <tspan x="-18.284" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">Why?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M1068.5,444.5 L1068.5,384.3" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M1072.1,384.3 L1068.5,374.7 L1064.9,384.3 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 1097.054, 408)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M108.5,120.5 L108.5,144.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M104.9,144.7 L108.5,154.3 L112.1,144.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 136.284, 138)">
+        <tspan x="-18.284" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">Why?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M324.5,120.5 L324.5,144.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M320.9,144.7 L324.5,154.3 L328.1,144.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 353.054, 138)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M696.5,120.5 L696.5,144.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M692.9,144.7 L696.5,154.3 L700.1,144.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 724.284, 138)">
+        <tspan x="-18.284" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">Why?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M1008.5,120.5 L1008.5,156.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M1004.9,156.7 L1008.5,166.3 L1012.1,156.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 1036.284, 138.414)">
+        <tspan x="-18.284" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">Why?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M108.5,240.5 L107.697,288.702" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M104.097,288.642 L107.537,298.3 L111.296,288.762 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 136.374, 289.25)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M696.5,276.5 L864.5,276.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 839.734, 288.498)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M300.5,275.5 L300.5,288.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M296.9,288.7 L300.5,298.3 L304.1,288.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 329.054, 287.5)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M180.5,288.7 L180.5,252.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M176.9,288.7 L180.5,298.3 L184.1,288.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 209.054, 288.793)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M478,252.5 L478,288.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M474.4,288.7 L478,298.3 L481.6,288.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 506.554, 276)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M204.5,360.3 L204.5,444.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M208.1,360.3 L204.5,350.7 L200.9,360.3 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 233.054, 396)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M967.103,516.5 L360.3,516.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M360.3,512.9 L350.7,516.5 L360.3,520.1 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 387.718, 504.216)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M1032.5,408.5 L1032.5,432.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M1028.9,432.7 L1032.5,442.3 L1036.1,432.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 1009.84, 423.464)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M576.5,324.5 L624.7,324.5" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M624.7,328.1 L634.3,324.5 L624.7,320.9 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 606, 342.344)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M780.5,408.5 L780.5,432.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M776.9,432.7 L780.5,442.3 L784.1,432.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 757.84, 423.464)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M516.5,408.5 L516.5,432.7" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+        <path d="M512.9,432.7 L516.5,442.3 L520.1,432.7 z" fill="#003E74" fill-opacity="1" stroke="#003E74" stroke-width="2" stroke-opacity="1"/>
+      </g>
+      <text fill="#000000" transform="matrix(1, 0, -0, 1, 493.84, 423.464)">
+        <tspan x="-19.054" y="5.306" font-family="HelveticaNeue-Bold" font-size="14">How?</tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Layer_2">
+    <g>
+      <g>
+        <path d="M468.5,12.5 L660.5,12.5 L660.5,96.5 L468.5,96.5 L468.5,12.5 z" fill="#003E74"/>
+        <path d="M468.5,12.5 L660.5,12.5 L660.5,96.5 L468.5,96.5 L468.5,12.5 z" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 564, 57.704)">
+        <tspan x="-77.504" y="-18.704" font-family="HelveticaNeue" font-size="16" fill="#FFFFFF">Develop a biomimetic </tspan>
+        <tspan x="-79.424" y="-0.704" font-family="HelveticaNeue" font-size="16" fill="#FFFFFF">agent of the predatory </tspan>
+        <tspan x="-80.152" y="17.296" font-family="HelveticaNeue" font-size="16" fill="#FFFFFF">features of a dragonfly</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M36.5,300.5 L228.5,300.5 L228.5,348.5 L36.5,348.5 L36.5,300.5 z" fill="#D4EFFC"/>
+        <path d="M36.5,300.5 L228.5,300.5 L228.5,348.5 L36.5,348.5 L36.5,300.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 132, 324)">
+        <tspan x="-76.736" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Parallel processing of </tspan>
+        <tspan x="-79" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">neuron compartments</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M12.5,444.5 L156.5,444.5 L156.5,492.5 L12.5,492.5 L12.5,444.5 z" fill="#D4EFFC"/>
+        <path d="M12.5,444.5 L156.5,444.5 L156.5,492.5 L12.5,492.5 L12.5,444.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 84, 468)">
+        <tspan x="-67.696" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Using GPU parallel </tspan>
+        <tspan x="-39.264" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">processing</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M192.5,444.5 L348.5,444.5 L348.5,528.5 L192.5,528.5 L192.5,444.5 z" fill="#D4EFFC"/>
+        <path d="M192.5,444.5 L348.5,444.5 L348.5,528.5 L192.5,528.5 L192.5,444.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 270, 488.796)">
+        <tspan x="-63.416" y="-21.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Solving numerical </tspan>
+        <tspan x="-68.328" y="-3.5" font-family="HelveticaNeue" font-size="16" fill="#000000">ordinary differential </tspan>
+        <tspan x="-58.68" y="14.5" font-family="HelveticaNeue" font-size="16" fill="#000000">equations in real </tspan>
+        <tspan x="-15.416" y="32.5" font-family="HelveticaNeue" font-size="16" fill="#000000">time</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M960.5,444.5 L1116.5,444.5 L1116.5,528.5 L960.5,528.5 L960.5,444.5 z" fill="#D4EFFC"/>
+        <path d="M960.5,444.5 L1116.5,444.5 L1116.5,528.5 L960.5,528.5 L960.5,444.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 1038, 486)">
+        <tspan x="-71.584" y="-18.704" font-family="HelveticaNeue" font-size="16" fill="#000000">Multicompartmental </tspan>
+        <tspan x="-56.744" y="-0.704" font-family="HelveticaNeue" font-size="16" fill="#000000">Hodgkin Huxley </tspan>
+        <tspan x="-61.2" y="17.296" font-family="HelveticaNeue" font-size="16" fill="#000000">model (CSTMD1)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M696.5,444.5 L888.5,444.5 L888.5,492.5 L696.5,492.5 L696.5,444.5 z" fill="#D4EFFC"/>
+        <path d="M696.5,444.5 L888.5,444.5 L888.5,492.5 L696.5,492.5 L696.5,444.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 792, 468)">
+        <tspan x="-58.68" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Computer vision </tspan>
+        <tspan x="-72.904" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">techniques (ESTMD)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M432.5,444.5 L624.5,444.5 L624.5,492.5 L432.5,492.5 L432.5,444.5 z" fill="#D4EFFC"/>
+        <path d="M432.5,444.5 L624.5,444.5 L624.5,492.5 L432.5,492.5 L432.5,444.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 528, 468)">
+        <tspan x="-87.88" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Learning mechanisms to </tspan>
+        <tspan x="-89.04" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">recognise patters (STDP)</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M636.5,300.5 L768.5,300.5 L768.5,372.5 L636.5,372.5 L636.5,300.5 z" fill="#D4EFFC"/>
+        <path d="M636.5,300.5 L768.5,300.5 L768.5,372.5 L636.5,372.5 L636.5,300.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 702, 336)">
+        <tspan x="-40.008" y="-13.889" font-family="HelveticaNeue" font-size="16" fill="#000000">Concurrent </tspan>
+        <tspan x="-47.872" y="4.111" font-family="HelveticaNeue" font-size="16" fill="#000000">programming </tspan>
+        <tspan x="-39.272" y="22.111" font-family="HelveticaNeue" font-size="16" fill="#000000">techniques</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M252.5,300.5 L360.5,300.5 L360.5,348.5 L252.5,348.5 L252.5,300.5 z" fill="#D4EFFC"/>
+        <path d="M252.5,300.5 L360.5,300.5 L360.5,348.5 L252.5,348.5 L252.5,300.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 306, 324)">
+        <tspan x="-45.792" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Simulate key </tspan>
+        <tspan x="-28.752" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">neurons</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M384.5,300.5 L576.5,300.5 L576.5,348.5 L384.5,348.5 L384.5,300.5 z" fill="#D4EFFC"/>
+        <path d="M384.5,300.5 L576.5,300.5 L576.5,348.5 L384.5,348.5 L384.5,300.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 480, 324)">
+        <tspan x="-90.96" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Continuous flow between </tspan>
+        <tspan x="-69.36" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">simulation modules</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M1008.5,300.5 L1200.5,300.5 L1200.5,372.5 L1008.5,372.5 L1008.5,300.5 z" fill="#D4EFFC"/>
+        <path d="M1008.5,300.5 L1200.5,300.5 L1200.5,372.5 L1008.5,372.5 L1008.5,300.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 1104, 336)">
+        <tspan x="-77.2" y="-13.889" font-family="HelveticaNeue" font-size="16" fill="#000000">Use morphology data </tspan>
+        <tspan x="-78.984" y="4.111" font-family="HelveticaNeue" font-size="16" fill="#000000">previously determined </tspan>
+        <tspan x="-60.464" y="22.111" font-family="HelveticaNeue" font-size="16" fill="#000000">through research</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M792.5,300.5 L984.5,300.5 L984.5,348.5 L792.5,348.5 L792.5,300.5 z" fill="#D4EFFC"/>
+        <path d="M792.5,300.5 L984.5,300.5 L984.5,348.5 L792.5,348.5 L792.5,300.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 888, 324)">
+        <tspan x="-77.784" y="-4.259" font-family="HelveticaNeue" font-size="16" fill="#000000">Visualisation of neural </tspan>
+        <tspan x="-35.264" y="13.741" font-family="HelveticaNeue" font-size="16" fill="#000000">behaviour</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M36.5,156.5 L180.5,156.5 L180.5,240.5 L36.5,240.5 L36.5,156.5 z" fill="#D4EFFC"/>
+        <path d="M36.5,156.5 L180.5,156.5 L180.5,240.5 L36.5,240.5 L36.5,156.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 108, 198)">
+        <tspan x="-67.728" y="-18.704" font-family="HelveticaNeue" font-size="16" fill="#000000">Improve simulation </tspan>
+        <tspan x="-47.72" y="-0.704" font-family="HelveticaNeue" font-size="16" fill="#000000">techniques in </tspan>
+        <tspan x="-54.688" y="17.296" font-family="HelveticaNeue" font-size="16" fill="#000000">neurodynamics</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M240.5,156.5 L408.5,156.5 L408.5,240.5 L240.5,240.5 L240.5,156.5 z" fill="#D4EFFC"/>
+        <path d="M240.5,156.5 L408.5,156.5 L408.5,240.5 L240.5,240.5 L240.5,156.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, -0, 0, 1, 324, 200.796)">
+        <tspan x="-76.024" y="-21.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Model in realtime key </tspan>
+        <tspan x="-55.128" y="-3.5" font-family="HelveticaNeue" font-size="16" fill="#000000">elements of the </tspan>
+        <tspan x="-39.704" y="14.5" font-family="HelveticaNeue" font-size="16" fill="#000000">dragonfly's </tspan>
+        <tspan x="-54.688" y="32.5" font-family="HelveticaNeue" font-size="16" fill="#000000">neurodynamics</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M600.5,156.5 L792.5,156.5 L792.5,240.5 L600.5,240.5 L600.5,156.5 z" fill="#D4EFFC"/>
+        <path d="M600.5,156.5 L792.5,156.5 L792.5,240.5 L600.5,240.5 L600.5,156.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 696, 200.796)">
+        <tspan x="-46.376" y="-21.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Gain a better </tspan>
+        <tspan x="-60.608" y="-3.5" font-family="HelveticaNeue" font-size="16" fill="#000000">understanding of </tspan>
+        <tspan x="-57.632" y="14.5" font-family="HelveticaNeue" font-size="16" fill="#000000">dragonfly neural </tspan>
+        <tspan x="-35.264" y="32.5" font-family="HelveticaNeue" font-size="16" fill="#000000">behaviour</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M924.5,168.5 L1116.5,168.5 L1116.5,216.5 L924.5,216.5 L924.5,168.5 z" fill="#D4EFFC"/>
+        <path d="M924.5,168.5 L1116.5,168.5 L1116.5,216.5 L924.5,216.5 L924.5,168.5 z" fill-opacity="0" stroke="#003E74" stroke-width="2"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 1020, 191.241)">
+        <tspan x="-80.392" y="-3.5" font-family="HelveticaNeue" font-size="16" fill="#000000">Improve moving target </tspan>
+        <tspan x="-65.648" y="14.5" font-family="HelveticaNeue" font-size="16" fill="#000000">selection methods</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

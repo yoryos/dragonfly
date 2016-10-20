@@ -1,0 +1,113 @@
+/*
+This is a CellBuilder-like file written for the simulator NEURON
+by an automatic procedure "neuron_tree" part of the TREES package
+in MATLAB
+copyright 2009 Hermann Cuntz
+*/
+
+proc celldef() {
+  topol()
+  subsets()
+  geom()
+  biophys()
+  geom_nseg()
+}
+
+create tree_1[2]
+create tree_dendrite[7]
+
+proc topol_1() {
+  connect tree_dendrite[1](0),tree_dendrite[0](1)
+  connect tree_dendrite[2](0),tree_dendrite[1](1)
+  connect tree_dendrite[3](0),tree_dendrite[1](1)
+  connect tree_dendrite[4](0),tree_dendrite[0](1)
+  connect tree_dendrite[5](0),tree_dendrite[4](1)
+  connect tree_dendrite[6](0),tree_dendrite[5](1)
+  connect tree_1[0](0),tree_dendrite[5](1)
+  connect tree_1[1](0),tree_dendrite[4](1)
+}
+proc topol() {
+  topol_1()
+  basic_shape()
+}
+
+proc shape3d_1() {
+  tree_dendrite[0] {pt3dclear()
+    pt3dadd(-0.0001, 0, 0, 4.2506)
+    pt3dadd(0, 0, 0, 4.2506)
+    pt3dadd(8.293, 4.4476, -4.4605, 3.4969)
+    pt3dadd(17.409, 8.8021, -3.3942, 2.854)
+  }
+  tree_dendrite[1] {pt3dclear()
+    pt3dadd(17.409, 8.8021, -3.3942, 2.854)
+    pt3dadd(26.901, 10.542, -0.95626, 2.4839)
+    pt3dadd(36.065, 13.033, 1.9406, 2.0405)
+    pt3dadd(43.939, 16.793, 3.226, 1.6907)
+  }
+  tree_dendrite[2] {pt3dclear()
+    pt3dadd(43.939, 16.793, 3.226, 1.6907)
+    pt3dadd(53.105, 18.732, 5.2613, 1.6019)
+    pt3dadd(63.623, 17.734, 8.2536, 1.3737)
+  }
+  tree_dendrite[3] {pt3dclear()
+    pt3dadd(43.939, 16.793, 3.226, 1.6907)
+    pt3dadd(46.759, 23.433, 7.4633, 1.2672)
+  }
+  tree_dendrite[4] {pt3dclear()
+    pt3dadd(17.409, 8.8021, -3.3942, 2.854)
+    pt3dadd(19.554, 18.38, -0.4695, 2.2141)
+  }
+  tree_dendrite[5] {pt3dclear()
+    pt3dadd(19.554, 18.38, -0.4695, 2.2141)
+    pt3dadd(22.962, 27.488, 2.4173, 1.9202)
+    pt3dadd(27.016, 33.481, 2.7918, 1.6343)
+  }
+  tree_dendrite[6] {pt3dclear()
+    pt3dadd(27.016, 33.481, 2.7918, 1.6343)
+    pt3dadd(35.713, 36.713, 2.6682, 1.3279)
+  }
+  tree_1[0] {pt3dclear()
+    pt3dadd(27.016, 33.481, 2.7918, 1.6343)
+    pt3dadd(31.247, 43.647, 2.8102, 1.4731)
+  }
+  tree_1[1] {pt3dclear()
+    pt3dadd(19.554, 18.38, -0.4695, 2.2141)
+    pt3dadd(28.661, 20.143, -0.28835, 1.2903)
+  }
+}
+proc basic_shape() {
+  shape3d_1()
+}
+
+objref reg_tree_all
+objref reg_tree_1
+objref reg_tree_dendrite
+proc subsets() { local ward
+  reg_tree_all = new SectionList()
+  reg_tree_1 = new SectionList()
+  for ward = 0, 1 tree_1[ward] {
+    reg_tree_1.append()
+    reg_tree_all.append()
+  }
+  reg_tree_dendrite = new SectionList()
+  for ward = 0, 6 tree_dendrite[ward] {
+    reg_tree_dendrite.append()
+    reg_tree_all.append()
+  }
+}
+proc geom() {
+}
+proc geom_nseg() {
+}
+proc biophys() {
+}
+access tree_1
+celldef()
+
+
+forsec reg_tree_all insert pas
+forsec reg_tree_all g_pas = 0.0005
+forsec reg_tree_all Ra = 100
+forsec reg_tree_all cm = 1
+forsec reg_tree_all e_pas = 0
+

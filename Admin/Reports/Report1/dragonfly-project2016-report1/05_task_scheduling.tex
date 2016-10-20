@@ -1,0 +1,65 @@
+\section{Task scheduling} \label{taskscheduling}
+\par  Seven sprints have been planned for this project, with goals having a priority form 1 (highest) to 3 (lowest). We aim to achieve the core aim of the functioning CSTMD and ESTMD modules linked together by the end of the third sprint, a fully functional and integrated system by the end of the fifth sprint, with the final two sprints dedicated to improvments and exploring potential extensions. We will meet with supervisors Zafeirios Fountas and Pedro Mediano on a weekly basis to review the progress of these sprints as well as plan the next sprint.
+
+\begin{center}
+    \begin{tabular}{l p{1.4cm} p{1.4cm} p{1.4cm} p{1.5cm} p{1.4cm} p{1.4cm} p{1.8cm}}
+    \textbf{Sprint} & 1 & 2 & 3 & 4 & 5 & 6 & 7(extended) \\
+    \hline
+    \textbf{Start ('16)}
+    &18 Jan & 1 Feb & 15 Feb & 29 Feb & 14 Mar & 28 Mar & 11 Apr \\
+    \textbf{End ('16)}
+    &31 Jan & 14 Feb & 28 Feb & 13 Mar & 27 Mar & 10 Apr & 1 May\\
+    \end{tabular}
+\end{center}
+
+\begin{center}
+    \begin{longtable}{c | p{12cm} c c}
+     \caption{Task prioritisation and scheduling} \\
+    &\textbf{Task} & \textbf{Priority} & \textbf{Sprint} \\ \hline
+    \endhead
+    \parbox[t]{2mm}{\multirow{9}{*}{\rotatebox[origin=c]{90}{CSTMD1}}}
+    & Generate CSTMD1 morphology using Python and MATLAB script & 1 & 1 \\
+    &Implement multicompartmental Hodgkin Huxley neuron on GPU  & 1 & 1 \\
+    &Implement morphology as a GPU neuron model  & 2 & 1 \\
+    &Develop 3D visualisation tool & 2 & 1 \\
+    &Generate  and implement synapses from individual neuron morphologies  & 1 & 2 \\
+    &Integrate ESTMD1 output stimulus & 1 & 3 \\
+    &Model verification and parameter search & 1 & 3 \\
+    &Re-implement for step simulator for continious flow model  & 2 & 3 \\
+    &Integrate with STDP & 1 & 4 \\
+    \hline
+    \multirow{5}{*}{\rotatebox[origin=c]{90}{ESTMD}}&Analyse and test current ESTMD module for usage and perfomance & 1 & 2 \\
+    &Make necessary changes for continuous flow model & 1 & 3\\
+    &Integrate with CSTMD1 & 1 & 3 \\
+    &Link with Environment & 1 & 3\\
+    &Investigate poissible implementation in CUDA and OpenCV & 2 & 4 \\
+    \hline
+    \parbox[t]{2mm}{\multirow{3}{*}{\rotatebox[origin=c]{90}{STDP}}}
+    & Analyse and test current STDP module for usage and performance & 2 & 2 \\
+    & Implement into continous flow model & 1 & 4 \\
+    & Integrate with CSTMD1 and RL & 2 & 4 \\
+    \hline
+    \multirow{3}{*}{\rotatebox[origin=c]{90}{RL}}
+    & Analyse and test current RL module for usage and performance & 2 & 2 \\
+    & Implement into continous flow model & 1 & 4 \\
+	& Integrate with CSTMD1 and STDP & 2 & 4 \\
+    \hline
+	\multirow{3}{*}{\rotatebox[origin=c]{90}{MC}} & Implement motor controller & 1 & 3 \\
+	& Integrate with Environment & 2 & 3 \\
+	& Integrate with RL & 1 & 4 \\
+    \hline
+    \multirow{5}{*}{\rotatebox[origin=c]{90}{Environment}}
+    &Analyse and test current animation module for usage and performance & 1 & 1 \\
+    & Implement 2D environment model including agent and prey location & 1 & 2 \\
+    & Extend animation visutalion onto 2D model & 1 & 3 \\
+	&Integrate with ESTMD & 2 & 3 \\
+	&Build and integrate 3D environment & 2 & 5 \\
+    \hline
+    \multirow{5}{*}{\rotatebox[origin=c]{90}{Integration}}
+    &Integrate current dependencies into a Docker module & 2 & 2 \\
+    &Brain Studio investigation for module integration & 2 & 3 \\
+    &Investigate Shared memory use for module integration & 2 & 3 \\
+    &Testing, quality control and dependency checking & 1 & 5 \\
+	&Quad-copter implementation & 3 & 6 \\
+	\end{longtable}
+\end{center}

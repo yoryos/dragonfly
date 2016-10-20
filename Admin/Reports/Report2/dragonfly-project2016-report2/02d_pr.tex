@@ -1,0 +1,7 @@
+\subsection{STDP}
+
+The pattern recognition module using Spike Time Dependent Plasticity has been adjusted to allow for integration into the sequential process of the dragonfly brain simulation. The module now accepts spike information of one time step from the CSTMD1 and delivers output in the form of a spike array corresponding to the spiking of one of the module's four recognition neurons. The module can be run in a training state, during which it performs STDP on its synapses or be used for pattern recognition, after it has been trained.
+
+The module has been observed to learn and adjust to a trial pattern, however, performance decays over time. In order to adjust this, parameters will have to be tuned and further testing will be required.
+
+

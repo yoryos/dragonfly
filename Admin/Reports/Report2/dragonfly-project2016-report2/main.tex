@@ -1,0 +1,57 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage[nodayofweek]{datetime}
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\usepackage{fancyvrb}
+\longdate
+\usepackage[dvipsnames]{xcolor}
+\exhyphenpenalty = 100000
+\hyphenpenalty = 100000
+\usepackage{verbatim}
+\usepackage[titletoc,title]{appendix}
+
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancyplain}
+\fancyhf{}
+\lhead{\fancyplain{}{M.Sc.\ Group Project Report}}
+\rhead{\fancyplain{}{\today}}
+\cfoot{\fancyplain{}{\thepage}}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt}
+
+\title{Dragonfly Neural Simulation \\\Large{--- Report Two ---}}
+\author{Alex Carver, Chris Snowden, Desy Kristianti, \\
+        Georgios Kontogiannis, Luka Milic, Zoe Landgraf\\
+       \{anc15, cps15, dk2015, gk513, lm1015, zl4215\}@ic.ac.uk\\ \\
+       \small{Supervisors: Professor Murray Shanahan, Zafeirios Fountas, Pedro Mediano}\\
+       \small{Course: CO530, Imperial College London}
+}
+
+\begin{document}
+\maketitle
+
+\input{01_introduction}
+\input{02_progress}
+\input{03a_specification_update}
+%\input{03b_updated_task_schedule}
+\input{04_testing}
+
+\bibliographystyle{unsrt}
+\bibliography{report2}
+
+\include{Appendix}
+
+\end{document}
+

@@ -1,0 +1,20 @@
+
+Report Two: Summary of Requirements
+Should discuss any updates to your specification;
+Should discuss your testing methodology;
+Should include the coverage achieved by your current test suite (see above for details).
+
+
+----------------------------------------------
+
+- discuss your project progress and your overall testing strategy. 
+- Relate your progress to the schedule you gave in Report One, and if necessary, provide a revised schedule for the remaining period. 
+- Elaborate on areas that have caused problems and how the group has adapted to solve the problems. 
+
+- Report Two should also discuss your testing strategy.
+- You are required to use a coverage measurement tool and report the statement and branch coverage achieved in your code by your current test suite. 
+
+You should write a summary of your coverage results in the actual report, and include more detailed information (e.g., screenshots produced by the coverage tool) in the appendix. You should ignore any third-party library code from your report. We expect your overall coverage numbers to be above 60% (but hopefully much higher). If it is the case, you should clearly justify why the coverage of certain modules is low and discuss the steps you plan to take to improve it.
+
+Report Two should be between 2 and 4 pages (excluding the appendix) using an 11-point font size, with 2cm margins all around, and spaced normally. You are required to use Latex to type your reports.
+

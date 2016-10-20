@@ -1,0 +1,36 @@
+\section{Project Boundaries}
+\iffalse
+\subsection{Stakeholders} \label{stakeholders}
+\par The project has a strong academic motivation based on academic research currently being undertaken in the Neurodynamics community and within Prof. Murray Shanahan's group. The ultimate goal of the project is to publish a paper in collaboration with both PhD students Pedro Mediano and Zafeirios Fountas and thus make the project's findings available to the wider academic community.
+\fi
+
+\iffalse \subsection{Software and Hardware} \fi
+The target operating system for the software will be Ubuntu 14.04 as it has long term support from its developers and is a popular stable platform for all the software which we shall use.
+
+Python has many libraries optimised for scientific computing (such as numpy, scipy and matplotlib), and was also used extensively by the group working on this project last year, so will be the language of choice. The exceptions are the CSTMD1 and possibly the ESTMD modules where we will take advantage of GPUs with the CUDA platform combined with the Thrust and the CUBLAS libraries.
+
+The structure of the project is highly modular hence an integration system will be required.  We will either use Brain Studio, which is in early development by the Computational Neurodynamics group, or exploit the low level features of the operating system to achieve inter-process synchronisation.
+
+For visualisation matplotlib will be used as it is very simple and lightweight. For more complex visualisations requiring 3D graphics PyQTGraph will be used. In addition some use of Matlab will be required, particularly for generating the morphologies of the CSTMD1 neuron.
+
+\iffalse % COMMENT OUT: START
+\par Hardware/OS:
+\begin{itemize}
+  \item Linux / DGB
+  \item NVIDIA GeForce
+  \item Local / not distributed \ldots
+\end{itemize}
+\par Dependencies:
+\begin{itemize}
+  \item CUDA
+  \item Numpy
+  \item OpenGL
+  \item OpenCV
+  \item (PyQT)
+  \item cuBLAS
+  \item Thrust
+  \item Gizeh
+  \item Brain Studio
+  \item Quadcopter
+\end{itemize}
+\fi % COMMENT OUT: END

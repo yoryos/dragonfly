@@ -1,0 +1,31 @@
+\section{Specification and Task Schedule Update} \label{specificationupdate}
+\par The project's specification was updated according to current progress on the modules, unit tests and time profiling. The updated requirements and their phase status are displayed in Table 2.
+
+\begin{table}[h!]
+\caption{Updated specification: Complete(C), Testing(T), Outstanding(O)}
+\begin{tabularx}{\hsize}{c | c | X | c}
+&&\textbf{Task} & \textbf{Phase} \\ \hline
+\multirow{8}{*}{\rotatebox[origin=c]{90}{Minimal}} 
+& A1 & Develop an efficient implementation of a multi-compartmental Hodgkin-Huxley neuron model & C \\
+& A2 & Apply this model to create a CSTMD1 simulation & C\\
+& A3 &Integration of ESTMD, STPD and RL with the CSTMD1 neuron(s) into a continuous flow simulation & T\\
+& A4 &2D environment in which the agent will attempt to capture prey & C\\
+& A5 &Implement and integrate a motor module which moves the dragonfly within the environment and automatic system & T\\
+\hline
+\multirow{6}{*}{\rotatebox[origin=c]{90}{Full}}
+& B1 & Providing a transparent interface in order to understand the characteristics of each module & O\\
+& B2 & Create and display a visualisation of agent's neural behaviour & T\\
+& B3 & The CSTMD1 module exhibiting all theoretically expected features & O\\
+& B4 & Comparison of our own simulation with 3$^{rd}$ party simulators including NEURON & O\\
+& B5 & The connected modules should be able to run in an approximation of real-time & T \\
+\hline
+\multirow{5}{*}{\rotatebox[origin=c]{90}{Extensions}}
+& C1 & Create a user interface for the virtual simulation environment & O\\
+& C2 & Implement with real-time input from camera & O \\
+& C3 & Extend the environment and motor controller to improve realism & O \\
+& C4 & Implement on a simple physical robot or quad-copter & O \\ 
+\end{tabularx}
+\label{table:req}
+\end{table}
+
+\par  Seven sprints were planned for this project, with tasks having a priority from 1 (highest) to 3 (lowest). By the end of Sprint 3, the Environment, CSTMD1, ESTMD and STDP modules are functional. Some work to integrate the modules has been done although the team has been focusing with the individual performance of the modules.  Overall we are still within range of the initial goal of having a fully functional integrated system by the end of the fifth sprint. After reviewing the updated specification and task requirements, an updated task schedule has been generated and is given in Appendix \ref{Appendix:Task_Scheduling}).

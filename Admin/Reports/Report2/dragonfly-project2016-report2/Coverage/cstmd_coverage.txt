@@ -1,0 +1,10 @@
+Name                                             Stmts   Miss Branch BrPart  Cover
+----------------------------------------------------------------------------------
+/CSTMD1/Cstmd1.py                                   86      0     22      2    98%
+/CSTMD1/Morphology/Compartment.py                   95      0     20      0   100%
+/CSTMD1/Morphology/Coordinate.py                    30      0      0      0   100%
+/CSTMD1/Morphology/MultiCompartmentalNeuron.py     117      5     42      5    94%
+/CSTMD1/Morphology/NeuronCollection.py             163      3     60      1    98%
+/CSTMD1/Morphology/NeuronGenerator.py               92      0     24      1    99%
+----------------------------------------------------------------------------------
+TOTAL                                              583      8    168      9    98%
